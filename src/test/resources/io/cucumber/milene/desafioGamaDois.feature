@@ -6,13 +6,13 @@ Funcionalidade: busca em um site
 
 Cenario:
     Dado que eu estou no site da gama academy "https://pages.gama.academy/curso-de-product-management/"
-    E cliclo na opção "QUERO IR PARA O PRÓXIMO NÍVEL"
-    Então devo ver o valor e o botão comprar agora
+    E clico na opcao "QUERO IR PARA O PRÓXIMO NÍVEL"
+    Entao devo ver o valor e o botao comprar agora
 
 Cenario: 
     Dado que eu estou no site da gama academy "https://www.gama.academy/"
-    E cliclo na opção "DEV FULL STACK"
-    Então ver as opções
+    E clico na opcao "DEV FULL STACK"
+    Entao ver as opcoes
         |Crie seu portfólio!|
         |Acompanhamento de Carreira|
         |Professores de surf que sabem surfar!|

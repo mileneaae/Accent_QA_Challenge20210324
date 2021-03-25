@@ -1,4 +1,4 @@
-#language: pt
+@ignore #language: pt
 #Caso de teste 1
 Funcionalidade: busca em um site
     Este é um exercício para encontrar o manifesto
