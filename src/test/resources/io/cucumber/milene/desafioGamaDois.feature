@@ -1,17 +1,12 @@
 #language: pt
 #Caso de teste 2
 Funcionalidade: busca em um site
-    Este é um exercício para encontrar o manifesto
-    dento do site da GamaCaso de teste 2
-
-Cenario:
-    Dado que eu estou no site da gama academy "https://pages.gama.academy/curso-de-product-management/"
-    E clico na opcao "QUERO IR PARA O PRÓXIMO NÍVEL"
-    Entao devo ver o valor e o botao comprar agora
+    Este e um exercício dentro da gama
 
 Cenario: 
-    Dado que eu estou no site da gama academy "https://www.gama.academy/"
-    E clico na opcao "DEV FULL STACK"
+    Dado que eu estou no site da gama "https://www.gama.academy/"
+    E fecho a propaganda
+    E clico na opcao DEV FULLSTACK
     Entao ver as opcoes
         |Crie seu portfólio!|
         |Acompanhamento de Carreira|
